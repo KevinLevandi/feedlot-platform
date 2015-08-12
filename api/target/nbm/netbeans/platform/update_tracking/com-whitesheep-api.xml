@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="com.whitesheep.api">
+    <module_version install_time="1437232713530" last="true" origin="installer" specification_version="1.0">
+        <file crc="869011136" name="config/Modules/com-whitesheep-api.xml"/>
+        <file crc="1416190238" name="modules/com-whitesheep-api.jar"/>
+        <file crc="1530392488" name="modules/ext/com.whitesheep.api/com-fasterxml-jackson-core/jackson-annotations.jar"/>
+        <file crc="3622917830" name="modules/ext/com.whitesheep.api/com-fasterxml-jackson-core/jackson-core.jar"/>
+        <file crc="162832937" name="modules/ext/com.whitesheep.api/com-fasterxml-jackson-core/jackson-databind.jar"/>
+        <file crc="2769027269" name="modules/ext/com.whitesheep.api/com-fasterxml-jackson-jaxrs/jackson-jaxrs-base.jar"/>
+        <file crc="551969622" name="modules/ext/com.whitesheep.api/com-fasterxml-jackson-jaxrs/jackson-jaxrs-json-provider.jar"/>
+        <file crc="1164189512" name="modules/ext/com.whitesheep.api/com-fasterxml-jackson-module/jackson-module-jaxb-annotations.jar"/>
+        <file crc="1922846449" name="modules/ext/com.whitesheep.api/javax-annotation/javax.annotation-api.jar"/>
+        <file crc="2421149260" name="modules/ext/com.whitesheep.api/javax-persistence/persistence-api.jar"/>
+        <file crc="3395206601" name="modules/ext/com.whitesheep.api/javax-ws-rs/javax.ws.rs-api.jar"/>
+        <file crc="1059594920" name="modules/ext/com.whitesheep.api/org-eclipse-persistence/commonj.sdo.jar"/>
+        <file crc="2629898759" name="modules/ext/com.whitesheep.api/org-eclipse-persistence/eclipselink.jar"/>
+        <file crc="1858470103" name="modules/ext/com.whitesheep.api/org-eclipse-persistence/javax.persistence.jar"/>
+        <file crc="1616633025" name="modules/ext/com.whitesheep.api/org-glassfish-hk2-external/aopalliance-repackaged.jar"/>
+        <file crc="3810979407" name="modules/ext/com.whitesheep.api/org-glassfish-hk2-external/javax.inject.jar"/>
+        <file crc="4024996534" name="modules/ext/com.whitesheep.api/org-glassfish-hk2/hk2-api.jar"/>
+        <file crc="2711208916" name="modules/ext/com.whitesheep.api/org-glassfish-hk2/hk2-locator.jar"/>
+        <file crc="546948050" name="modules/ext/com.whitesheep.api/org-glassfish-hk2/hk2-utils.jar"/>
+        <file crc="696422277" name="modules/ext/com.whitesheep.api/org-glassfish-hk2/osgi-resource-locator.jar"/>
+        <file crc="1674197181" name="modules/ext/com.whitesheep.api/org-glassfish-jersey-bundles-repackaged/jersey-guava.jar"/>
+        <file crc="2878500700" name="modules/ext/com.whitesheep.api/org-glassfish-jersey-core/jersey-client.jar"/>
+        <file crc="3938214983" name="modules/ext/com.whitesheep.api/org-glassfish-jersey-core/jersey-common.jar"/>
+        <file crc="2389337393" name="modules/ext/com.whitesheep.api/org-glassfish-jersey-ext/jersey-entity-filtering.jar"/>
+        <file crc="4183027705" name="modules/ext/com.whitesheep.api/org-glassfish-jersey-media/jersey-media-json-jackson.jar"/>
+        <file crc="1337877988" name="modules/ext/com.whitesheep.api/org-javassist/javassist.jar"/>
+        <file crc="826192464" name="modules/ext/com.whitesheep.api/org-jdesktop/beansbinding.jar"/>
+        <file crc="1451416863" name="modules/ext/com.whitesheep.api/unknown-binary/mysql-connector-java-5.1.23-bin.jar"/>
+    </module_version>
+</module>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="com.whitesheep.ui">
+    <module_version install_time="1437146786317" last="true" origin="installer" specification_version="1.0">
+        <file crc="1710987792" name="config/Modules/com-whitesheep-ui.xml"/>
+        <file crc="1369956796" name="modules/com-whitesheep-ui.jar"/>
+    </module_version>
+</module>

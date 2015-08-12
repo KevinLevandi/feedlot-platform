@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="com.whitesheep.login">
+    <module_version install_time="1437146384162" last="true" origin="installer" specification_version="1.0">
+        <file crc="3971460163" name="config/Modules/com-whitesheep-login.xml"/>
+        <file crc="2915278684" name="modules/com-whitesheep-login.jar"/>
+    </module_version>
+</module>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="com.whitesheep.platform.branding">
+    <module_version install_time="1437143801397" last="true" origin="installer" specification_version="1.0">
+        <file crc="1219656152" name="config/Modules/com-whitesheep-platform-branding.xml"/>
+        <file crc="2302785587" name="core/locale/core_platform.jar"/>
+        <file crc="4026927687" name="modules/com-whitesheep-platform-branding.jar"/>
+        <file crc="4048334447" name="modules/locale/org-netbeans-core-windows_platform.jar"/>
+        <file crc="69906220" name="modules/locale/org-netbeans-core_platform.jar"/>
+        <file crc="1279313521" name="update_tracking/com-whitesheep-platform-branding.xml"/>
+    </module_version>
+</module>

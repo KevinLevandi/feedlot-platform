@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+OpenIDE-Module-Install: com/whitesheep/platform/login/Installer.class
+OpenIDE-Module-Localizing-Bundle: com/whitesheep/platform/login/Bundle.properties
+
