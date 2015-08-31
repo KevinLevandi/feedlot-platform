@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="com.whitesheep.api">
-    <module_version install_time="1437232713530" last="true" origin="installer" specification_version="1.0">
-        <file crc="869011136" name="config/Modules/com-whitesheep-api.xml"/>
-        <file crc="1416190238" name="modules/com-whitesheep-api.jar"/>
+    <module_version install_time="1440959994635" last="true" origin="installer" specification_version="1.0">
+        <file crc="2540944590" name="config/Modules/com-whitesheep-api.xml"/>
+        <file crc="1195548984" name="modules/com-whitesheep-api.jar"/>
         <file crc="1530392488" name="modules/ext/com.whitesheep.api/com-fasterxml-jackson-core/jackson-annotations.jar"/>
         <file crc="3622917830" name="modules/ext/com.whitesheep.api/com-fasterxml-jackson-core/jackson-core.jar"/>
         <file crc="162832937" name="modules/ext/com.whitesheep.api/com-fasterxml-jackson-core/jackson-databind.jar"/>

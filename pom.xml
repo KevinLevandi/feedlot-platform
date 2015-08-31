@@ -57,7 +57,6 @@
     <modules>
         <module>branding</module>
         <module>application</module>
-        <module>client</module>
         <module>login</module>
         <module>api</module>
         <module>ui</module>
