@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><module codename="com.whitesheep.api">
-    <module_version install_time="1437232713530" last="true" origin="installer" specification_version="1.0">
+    <module_version install_time="1440666499095" last="true" origin="installer" specification_version="1.0">
         <file crc="869011136" name="config/Modules/com-whitesheep-api.xml"/>
-        <file crc="1416190238" name="modules/com-whitesheep-api.jar"/>
+        <file crc="3720888371" name="modules/com-whitesheep-api.jar"/>
         <file crc="1530392488" name="modules/ext/com.whitesheep.api/com-fasterxml-jackson-core/jackson-annotations.jar"/>
         <file crc="3622917830" name="modules/ext/com.whitesheep.api/com-fasterxml-jackson-core/jackson-core.jar"/>
         <file crc="162832937" name="modules/ext/com.whitesheep.api/com-fasterxml-jackson-core/jackson-databind.jar"/>
@@ -28,5 +28,6 @@
         <file crc="1337877988" name="modules/ext/com.whitesheep.api/org-javassist/javassist.jar"/>
         <file crc="826192464" name="modules/ext/com.whitesheep.api/org-jdesktop/beansbinding.jar"/>
         <file crc="1451416863" name="modules/ext/com.whitesheep.api/unknown-binary/mysql-connector-java-5.1.23-bin.jar"/>
+        <file crc="1732720528" name="update_tracking/com-whitesheep-api.xml"/>
     </module_version>
 </module>

@@ -2,10 +2,11 @@ Manifest-Version: 1.0
 OpenIDE-Module-Localizing-Bundle: com/whitesheep/platform/api/Bundle.p
  roperties
 OpenIDE-Module-Specification-Version: 1.0
-OpenIDE-Module-Implementation-Version: 1.0-20150718
-OpenIDE-Module-Build-Version: 201507181518
+OpenIDE-Module-Implementation-Version: 1.0-20150827
+OpenIDE-Module-Build-Version: 201508270908
 OpenIDE-Module: com.whitesheep.api
-OpenIDE-Module-Public-Packages: com.whitesheep.platform.api.*
+OpenIDE-Module-Public-Packages: com.whitesheep.platform.api.*, com.whi
+ tesheep.platform.api.annotation.*
 OpenIDE-Module-Requires: org.openide.modules.ModuleFormat1
 OpenIDE-Module-Display-Category: com.whitesheep
 OpenIDE-Module-Name: platform-api

@@ -17,6 +17,7 @@
                 <configuration>
                     <publicPackages>
                         <publicPackage>com.whitesheep.platform.api</publicPackage>
+                        <publicPackage>com.whitesheep.platform.api.annotation</publicPackage>
                     </publicPackages>
                 </configuration>
             </plugin>

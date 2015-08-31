@@ -3,8 +3,8 @@ OpenIDE-Module-Install: com/whitesheep/platform/login/Installer.class
 OpenIDE-Module-Localizing-Bundle: com/whitesheep/platform/login/Bundle
  .properties
 OpenIDE-Module-Specification-Version: 1.0
-OpenIDE-Module-Implementation-Version: 1.0-20150717
-OpenIDE-Module-Build-Version: 201507171519
+OpenIDE-Module-Implementation-Version: 1.0-20150827
+OpenIDE-Module-Build-Version: 201508270908
 OpenIDE-Module: com.whitesheep.login
 OpenIDE-Module-Public-Packages: -
 OpenIDE-Module-Requires: org.openide.modules.ModuleFormat1
