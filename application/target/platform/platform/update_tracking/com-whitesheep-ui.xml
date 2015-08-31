@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?><module codename="com.whitesheep.ui">
-    <module_version install_time="1440666511586" last="true" origin="installer" specification_version="1.0">
-        <file crc="1710987792" name="config/Modules/com-whitesheep-ui.xml"/>
-        <file crc="23222233" name="modules/com-whitesheep-ui.jar"/>
-        <file crc="1361364200" name="modules/ext/com.whitesheep.ui/org-netbeans-external/beansbinding-1.2.1.jar"/>
-        <file crc="4229455853" name="modules/ext/com.whitesheep.ui/org-netbeans-external/swingx-0.9.5.jar"/>
-        <file crc="299582560" name="update_tracking/com-whitesheep-ui.xml"/>
-    </module_version>
-</module>
