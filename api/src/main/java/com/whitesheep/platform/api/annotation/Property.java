@@ -9,12 +9,14 @@ import java.lang.annotation.Target;
 @Retention(value = RetentionPolicy.RUNTIME)
 public @interface Property {
     
-    public DataType type() default DataType.TEXT;
+    public String name();
     
-    public boolean showInput() default true;
+    public DataType inputType() default DataType.TEXT_FIELD;
     
-    public boolean showFilter() default true;
+    public boolean hasInputCrud() default true;
+    
+    public boolean hasInputFilter() default true;
 
-    public boolean showColumn() default true;
+    public boolean hasView() default true;
     
 }
